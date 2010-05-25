@@ -1,0 +1,4 @@
+
+This is an Opera User JavaScript and a PHP script for beautifying compressed JavaScript code.
+
+The goal was to implement a "real" parser that deals with the input character by character - but keep it as simple as possible and only do what was required to output reasonably formatted and syntactically valid JavaScript.
